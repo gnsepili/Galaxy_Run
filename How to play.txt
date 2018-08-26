@@ -1,0 +1,2 @@
+The game is a web based game. Unfortunatlly google chrome doesn't support webGL for Local files.So open the play.html file with firefox or other web broweser.click on how to play option on menu section to know more about the game play.
+ThankYou
